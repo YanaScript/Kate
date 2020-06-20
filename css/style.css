@@ -77,7 +77,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 5vh 0;
   width: 100%;
   z-index: 50;
-  background-color: rgba(255, 255, 255, 0.1); }
+  background-color: rgba(0, 0, 0, 0.1); }
   .header__row {
     display: -webkit-box;
     display: -moz-box;
@@ -91,11 +91,11 @@ h1, h2, h3, h4, h5, h6 {
     flex-direction: column;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
-    justify-content: space-between;
+    justify-content: center;
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    height: 40vh;
+    height: 50vh;
     color: #fff; }
   .header__title {
     margin: 0 3% 4% 3%;
@@ -127,7 +127,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%; }
   .fullscreen_layer {
     min-height: 60vh;
-    background-color: rgba(255, 255, 255, 0.1); }
+    background-color: rgba(0, 0, 0, 0.1); }
   .fullscreen__body {
     width: 100%; }
   .fullscreen__title {
